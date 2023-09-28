@@ -20,7 +20,7 @@ Experience an optimized and simplified hiring process with accurate and detailed
 **🎥 Video Presentation**
 -------------------------
 
-Delve deeper into ATHENA's functionality and benefits through our comprehensive video presentation.
+Delve deeper into ATHENA's functionality and benefits through our comprehensive [video](https://drive.google.com/file/d/1vpKGNyR6TLe2ZOAFeKhX5Fzm91wOM2_x/view?usp=drive_link) presentation.
 
 **🤝 Team Members:**
 --------------------
